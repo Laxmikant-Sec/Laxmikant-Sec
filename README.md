@@ -13,11 +13,11 @@ I'm pursuing entry-level opportunities in **SOC analysis, cybersecurity analysis
 
 | Project | What I built or verified |
 | --- | --- |
-| [pfSense & TP-Link Archer Network Recovery](https://github.com/shivansh2589/cybersecurity-home-lab/blob/main/Network-Recovery-Archer-Kea/README.md) | Migrated ISC DHCP to Kea on pfSense CE 2.9.0; corrected access-point management addressing and DHCP configuration, restoring access without a factory reset. |
-| [Proxmox Cybersecurity Home Lab](https://github.com/shivansh2589/cybersecurity-home-lab) | Built a virtualized lab with Windows Server 2022, Ubuntu, Kali, Wazuh, and pfSense network segmentation. |
-| [Wazuh & Active Directory Monitoring](https://github.com/shivansh2589/cybersecurity-home-lab) | Investigated Windows security events and tested privileged Domain Admins membership-change detection. |
-| [Microsoft 365 Email Security Monitoring](https://github.com/shivansh2589/cybersecurity-home-lab/tree/main/Microsoft-365-Email-Security) | Integrated a personal Outlook mailbox with Microsoft Graph, Python/MSAL, and Wazuh for lab event monitoring. |
-| [Kali–Wazuh SSH Detection and Defense](https://github.com/shivansh2589/cybersecurity-home-lab/tree/main/Kali-Wazuh-SSH-Lab) | Tested SSH failure visibility in Wazuh and documented controlled authentication-hardening checks. |
+| [pfSense & TP-Link Archer Network Recovery](https://github.com/Laxmikant-Sec/cybersecurity-home-lab/blob/main/Network-Recovery-Archer-Kea/README.md) | Migrated ISC DHCP to Kea on pfSense CE 2.9.0; corrected access-point management addressing and DHCP configuration, restoring access without a factory reset. |
+| [Proxmox Cybersecurity Home Lab](https://github.com/Laxmikant-Sec/cybersecurity-home-lab) | Built a virtualized lab with Windows Server 2022, Ubuntu, Kali, Wazuh, and pfSense network segmentation. |
+| [Wazuh & Active Directory Monitoring](https://github.com/Laxmikant-Sec/cybersecurity-home-lab) | Investigated Windows security events and tested privileged Domain Admins membership-change detection. |
+| [Microsoft 365 Email Security Monitoring](https://github.com/Laxmikant-Sec/cybersecurity-home-lab/tree/main/Microsoft-365-Email-Security) | Integrated a personal Outlook mailbox with Microsoft Graph, Python/MSAL, and Wazuh for lab event monitoring. |
+| [Kali–Wazuh SSH Detection and Defense](https://github.com/Laxmikant-Sec/cybersecurity-home-lab/tree/main/Kali-Wazuh-SSH-Lab) | Tested SSH failure visibility in Wazuh and documented controlled authentication-hardening checks. |
 
 ## Technical Skills
 
@@ -38,6 +38,6 @@ I'm pursuing entry-level opportunities in **SOC analysis, cybersecurity analysis
 
 - **Portfolio:** [Cyber & Cloud Security Portfolio](https://cybersecurity-portfolio-bcu.pages.dev/)
 - **LinkedIn:** [Laxmikant Sharma](https://www.linkedin.com/in/laxmikant-sharma-cybersecurity)
-- **Home lab documentation:** [cybersecurity-home-lab](https://github.com/shivansh2589/cybersecurity-home-lab)
+- **Home lab documentation:** [cybersecurity-home-lab](https://github.com/Laxmikant-Sec/cybersecurity-home-lab)
 
 *My repository projects document hands-on lab practice and learning, not production security-operations employment.*
